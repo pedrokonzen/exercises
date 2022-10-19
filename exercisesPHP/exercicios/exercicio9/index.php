@@ -20,6 +20,9 @@
     $n * echo "SOL";
 
 
+    for ($i=0; $i <= $n ; $i++) { 
+        echo "SOL";
+    }
     ?>
 </body>
 </html>
