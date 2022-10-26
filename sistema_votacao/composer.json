@@ -1,0 +1,14 @@
+{
+    "name": "pedro.rhoden/sistema_votacao",
+    "authors": [
+        {
+            "name": "pkr"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "":"src/"
+        }
+    }
+}
